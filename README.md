@@ -1,2 +1,5 @@
 # Part_it_right
 A computer graphics project
+
+##### This computer graphics project aims to create a 3D/virtual car park, providing users with an interactive and immersive experience. The virtual environment allows users to freely navigate within the parking area, enabling them to closely examine cars and experience the process of driving and parking a car in the designated spaces. The simulation includes realistic visual representations of cars and houses surrounding the parking area. By utilizing computer graphics techniques, users can explore the virtual car park, interact with the environment, and gain a realistic understanding of car parking. The project combines elements of 3D modeling, rendering, and user interaction to create an engaging and educational simulation.
+##### The aim of this project is to create a 3-D/VIRTUAL CAR PARK. The viewer is allowed to roam around in the parking area and see the cars closely and to drive a car and park it in the car park area. The parking area is surrounded by a number of houses. This project uses the GLUT pre-built models’ sub-API in openGL.
